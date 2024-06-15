@@ -15,7 +15,7 @@ import threading
 ort.set_default_logger_severity(3)  # 3 = ERROR, 2 = WARNING, 1 = INFO, 0 = VERBOSE
 
 # 配置
-base_url = "https://www.hxxai.com"
+base_url = "https://www.XXX.com"
 captcha_url = f"{base_url}/api/account/captcha"
 login_url = f"{base_url}/api/account/login"
 workbench_url = f"{base_url}/workbench"
