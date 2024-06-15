@@ -24,8 +24,7 @@
 1. 克隆本项目到本地
 
     ```bash
-    git clone https://github.com/your-repo/hxxai-cracker.git
-    cd hxxai-cracker
+    git clone https://github.com/Jh18L/hxx.git
     ```
 
 2. 安装依赖
